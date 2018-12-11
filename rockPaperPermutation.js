@@ -2,8 +2,6 @@ function rockPaperPermutation (roundCount) {
   res = [];
   src = ['r', 'p', 's'];
   
-  
-  
   function roundPick( round, roundNum) {
     for(let i=0; i<src.length; i++) {
       round.push(src[i]);
