@@ -6,12 +6,12 @@ Given a number of rounds n, return all the possible rock-paper-scissors play pos
 <br>
 Examples<br>
 Input	Output<br>
-roundCount:<br>
+roundCount: 1<br>
 <br>
-1	[ "r", "p", "s" ]<br>
+[ "r", "p", "s" ]<br>
 <br>
-roundCount:<br>
-2	[ "rr", "rp", "rs", "pr", "pp", "ps", "sr", "sp", "ss" ]<br>
+roundCount: 2<br>
+[ "rr", "rp", "rs", "pr", "pp", "ps", "sr", "sp", "ss" ]<br>
 <br>
-roundCount:<br>
-0	[ ]
+roundCount: 0<br>
+[ ]
