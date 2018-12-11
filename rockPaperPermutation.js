@@ -1,4 +1,10 @@
 function rockPaperPermutation (roundCount) {
-  // Write your code here, and
-  // return your final answer.
+  res = [];
+  src = ['r', 'p', 's'];
+  
+  for(let i=0; i<roundCount; i++) {
+      
+  }
+  
+  
 }
