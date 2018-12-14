@@ -1,6 +1,6 @@
 function rockPaperPermutation (roundCount) {
   res = [];
-  src = ['r', 'p', 's'];
+  src = ['r', 'p', 's']; // r=rock, p=paper, s=scissors
   
   if(roundCount === 0)
     return [];
